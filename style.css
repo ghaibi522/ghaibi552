@@ -1,5 +1,5 @@
 *{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Tahoma,Arial,sans-serif;background:#080808;color:#fff}
-body{overflow-x:hidden}.bg{position:fixed;inset:0;background:#080808;z-index:-1}
+body{overflow-x:hidden}.bg{position:fixed;inset:0;background:radial-gradient(circle at 50% 0,#3b2b00 0,transparent 38%),linear-gradient(135deg,#050505,#111 55%,#050505);z-index:-1}
 .container{max-width:1050px;margin:auto;padding:28px 16px 35px}.hero{text-align:center;padding:25px 10px 18px}
 .logo{font-weight:900;font-size:48px;letter-spacing:2px;line-height:.9;text-shadow:0 0 20px rgba(255,194,45,.25)}
 .logo .x{color:#fff}.logo .game{color:#d8a21b;margin-right:7px}.store{font-size:22px;color:#e4b52d;font-weight:800;margin-top:12px}
@@ -13,5 +13,3 @@ h2{text-align:center;color:#e7b52e;margin:3px 0 20px}.grid{display:grid;grid-tem
 footer{text-align:center;color:#777;font-size:12px;margin-top:22px}
 @media(max-width:700px){.grid{grid-template-columns:repeat(2,1fr)}.logo{font-size:38px}.container{padding:18px 10px}}
 @media(max-width:420px){.grid{grid-template-columns:1fr}.fw{min-height:75px}}
-
-.xone-logo{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;margin:4px auto 12px;font-family:Arial,Tahoma,sans-serif;line-height:.9}.xone-logo-main{font-size:42px;font-weight:900;letter-spacing:2px;color:#fff;text-shadow:0 0 14px rgba(231,181,46,.18)}.xone-logo-main span{color:#e7b52e}.xone-logo-game{font-size:23px;font-weight:900;letter-spacing:7px;color:#e7b52e;margin-top:5px}.xone-logo-store{font-size:17px;font-weight:800;color:#fff;margin-top:10px}
