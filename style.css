@@ -13,9 +13,3 @@ h2{text-align:center;color:#e7b52e;margin:3px 0 20px}.grid{display:grid;grid-tem
 footer{text-align:center;color:#777;font-size:12px;margin-top:22px}
 @media(max-width:700px){.grid{grid-template-columns:repeat(2,1fr)}.logo{font-size:38px}.container{padding:18px 10px}}
 @media(max-width:420px){.grid{grid-template-columns:1fr}.fw{min-height:75px}}
-
-.xone-brand{text-align:center;padding:18px 8px 12px;font-family:Arial,Tahoma,sans-serif}
-.xone-main{font-size:44px;font-weight:900;letter-spacing:2px;color:#fff;text-shadow:0 0 18px rgba(231,181,46,.2)}
-.xone-main span{color:#e7b52e}
-.xone-sub{font-size:25px;font-weight:900;letter-spacing:8px;color:#e7b52e;margin-top:-4px}
-.xone-store{font-size:18px;font-weight:800;color:#eee;margin-top:7px}

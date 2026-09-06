@@ -1,11 +1,7 @@
-X.ONE GAME — GitHub Pages
-==========================
-Repository/site name:
-ghaibi522.github.io
+GITHUB PAGES — ghaibi522.github.io
 
-Expected website URL:
+آدرس درست سایت:
 https://ghaibi522.github.io/
 
-در GitHub باید Repository دقیقاً با نام ghaibi522.github.io باشد.
-فایل index.html باید در ریشه Repository قرار بگیرد.
-Settings → Pages → Deploy from a branch → main → /(root)
+هیچ دامنه یا Repository به نام xonegame.github.io در این نسخه اضافه نشده است.
+نام X.ONE GAME فقط به عنوان برند نمایشی سایت استفاده می‌شود.
