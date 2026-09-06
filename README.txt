@@ -1,3 +1,11 @@
-X.ONE GAME / فروشگاه شیرزاد
-نسخه برندینگ‌شده سایت.
-نام GamerHack از متن و ظاهر صفحه حذف و با X.ONE GAME جایگزین شده است.
+X.ONE GAME — GitHub Pages
+==========================
+Repository/site name:
+ghaibi522.github.io
+
+Expected website URL:
+https://ghaibi522.github.io/
+
+در GitHub باید Repository دقیقاً با نام ghaibi522.github.io باشد.
+فایل index.html باید در ریشه Repository قرار بگیرد.
+Settings → Pages → Deploy from a branch → main → /(root)
